@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Image_upload_delete/static/css/main.5ac31675.chunk.css",
+    "main.js": "/Image_upload_delete/static/js/main.152492f3.chunk.js",
+    "main.js.map": "/Image_upload_delete/static/js/main.152492f3.chunk.js.map",
+    "runtime-main.js": "/Image_upload_delete/static/js/runtime-main.adfe1a59.js",
+    "runtime-main.js.map": "/Image_upload_delete/static/js/runtime-main.adfe1a59.js.map",
+    "static/js/2.01953388.chunk.js": "/Image_upload_delete/static/js/2.01953388.chunk.js",
+    "static/js/2.01953388.chunk.js.map": "/Image_upload_delete/static/js/2.01953388.chunk.js.map",
+    "static/js/3.f58d7396.chunk.js": "/Image_upload_delete/static/js/3.f58d7396.chunk.js",
+    "static/js/3.f58d7396.chunk.js.map": "/Image_upload_delete/static/js/3.f58d7396.chunk.js.map",
+    "index.html": "/Image_upload_delete/index.html",
+    "static/css/main.5ac31675.chunk.css.map": "/Image_upload_delete/static/css/main.5ac31675.chunk.css.map",
+    "static/js/2.01953388.chunk.js.LICENSE.txt": "/Image_upload_delete/static/js/2.01953388.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.469126df.svg": "/Image_upload_delete/static/media/UploadIcon.469126df.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adfe1a59.js",
+    "static/js/2.01953388.chunk.js",
+    "static/css/main.5ac31675.chunk.css",
+    "static/js/main.152492f3.chunk.js"
+  ]
+}
